@@ -1,0 +1,12 @@
+2025-09-05 16:00:57,602 - Encrypt/Hide -> C:/Users/sm132/OneDrive/\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8/Desktop/intern/Work.png, message length=12
+2025-09-05 16:01:19,251 - Decrypt/Reveal -> C:/Users/sm132/OneDrive/\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8/Desktop/intern/Work.png
+2025-09-05 16:20:00,974 - Encrypt/Hide -> C:\Users\sm132\OneDrive\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\Desktop\intern\Work.png | payload_bytes=64
+2025-09-05 16:20:34,061 - Decrypt/Reveal -> C:\Users\sm132\OneDrive\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\Desktop\intern\Work.png | payload_bytes=64
+2025-09-05 16:23:34,897 - Encrypt/Hide -> C:\Users\sm132\OneDrive\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\Desktop\intern\Ec_Council_Logo.png | payload_bytes=80
+2025-09-05 16:23:40,813 - Decrypt/Reveal -> C:\Users\sm132\OneDrive\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\Desktop\intern\Ec_Council_Logo.png | payload_bytes=80
+2025-09-05 16:23:47,081 - Decrypt/Reveal -> C:\Users\sm132\OneDrive\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\Desktop\intern\Ec_Council_Logo.png | payload_bytes=80
+2025-09-05 16:24:09,913 - Decrypt/Reveal -> C:\Users\sm132\OneDrive\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\Desktop\intern\Ec_Council_Logo.png | payload_bytes=80
+2025-09-05 16:35:15,596 - Encrypt/Hide -> C:\Users\sm132\OneDrive\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\Desktop\intern\TTK.jpg | payload_bytes=84
+2025-09-05 16:35:42,762 - Decrypt/Reveal -> C:\Users\sm132\OneDrive\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\Desktop\intern\TTK_stego.png | payload_bytes=84
+2025-09-06 18:48:23,587 - Encrypt/Hide -> D:\Internship Data\Elevate Labs\Steganography Tool Project\Ec_Council_Logo.png | payload_bytes=68
+2025-09-06 18:52:22,151 - Decrypt/Reveal -> D:\Internship Data\Elevate Labs\Steganography Tool Project\Ec_Council_Logo_stego.png | payload_bytes=68
